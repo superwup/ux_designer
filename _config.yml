@@ -3,6 +3,6 @@ description: Première tentative de génération d'un site statique.
 github_repo: 'https://github.com/superwup'
 github_username: superwup
 social_link: 'https://twitter.com/superwup'
-social_username: Superwup
+social_username: superwup
 theme_color: yellow
 remote_theme: broccolini/swiss
