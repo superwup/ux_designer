@@ -1,16 +1,8 @@
-
-title: Swiss Jekyll Theme
-
-description: A bold typographic theme inspired by Swiss design.
-
-github_repo: jekyll # the GitHub repo name for your project, it makes a link on the home page
-
+title: 'Pol Goasdoué, Interactions design'
+description: Première tentative de génération d'un site statique.
+github_repo: jekyll
 github_username: jekyll
-
 social_link: twitter
-
-social_username: jekyllrb # twitter (default), instagram, medium, or dribbble
-
-theme_color: black # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
-
+social_username: jekyllrb
+theme_color: black
 remote_theme: broccolini/swiss
